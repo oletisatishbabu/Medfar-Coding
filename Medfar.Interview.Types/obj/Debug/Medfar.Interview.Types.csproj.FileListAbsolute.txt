@@ -1,0 +1,5 @@
+C:\MY Data\systest_12\Satish-Oleti-main\MVC\Medfar.Interview.Types\bin\Debug\Medfar.Interview.Types.dll
+C:\MY Data\systest_12\Satish-Oleti-main\MVC\Medfar.Interview.Types\bin\Debug\Medfar.Interview.Types.pdb
+C:\MY Data\systest_12\Satish-Oleti-main\MVC\Medfar.Interview.Types\obj\Debug\Medfar.Interview.Types.csprojAssemblyReference.cache
+C:\MY Data\systest_12\Satish-Oleti-main\MVC\Medfar.Interview.Types\obj\Debug\Medfar.Interview.Types.dll
+C:\MY Data\systest_12\Satish-Oleti-main\MVC\Medfar.Interview.Types\obj\Debug\Medfar.Interview.Types.pdb
