@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Medfar.Interview.DAL\Medfar.Interview.DAL.csproj" />
+    <ProjectReference Include="..\Medfar.Interview.Types\Medfar.Interview.Types.csproj" />
+  </ItemGroup>
+
+</Project>
